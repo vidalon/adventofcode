@@ -4,7 +4,7 @@ feet_of_paper_needed = 0
 
 input = []
 
-with open("./day_2_part_1.input") as f:
+with open("./part1.input") as f:
     input = f.readlines()
 
 for measure in input:
